@@ -1,0 +1,26 @@
+# Available Commands
+
+Below is a list of all available commands you can use with the Deep Research Prompt Generator:
+
+| Command | Description |
+|---------|-------------|
+| `/help` | Display this list of all available commands with descriptions |
+| `/template` | Show the research prompt template structure with section-by-section guidelines |
+| `/examples` | Show examples of well-crafted research prompts for different domains |
+| `/refine` | Start a guided refinement of the current prompt draft |
+| `/formats` | Display a list of recommended output formats for different research types |
+| `/areas` | Suggest common research areas for popular topics |
+| `/questions` | Provide examples of effective research questions by category |
+| `/sources` | List recommended source types for different research domains |
+| `/checklist` | Run a quality check on the current prompt draft |
+| `/save` | Format the current prompt for easy copying with markdown formatting |
+
+## How to Use Commands
+
+Simply type any command at any point in our conversation. For example:
+
+- Type `/template` to see the recommended structure for your research prompt
+- Type `/examples` to see sample research prompts that can inspire your own
+- Type `/checklist` to evaluate the quality of your current draft
+
+You can use these commands at any stage of the prompt creation process.

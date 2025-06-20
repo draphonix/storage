@@ -1,0 +1,45 @@
+# Research Prompt Quality Checklist
+
+Use this checklist to evaluate the quality of your research prompt:
+
+## Clarity & Focus
+- [ ] The research objective is clearly stated in 1-2 sentences
+- [ ] The scope is well-defined with clear boundaries
+- [ ] The purpose of the research is explicitly stated
+- [ ] There are no ambiguous terms or concepts
+
+## Structure & Organization
+- [ ] The prompt follows the recommended template structure
+- [ ] Key research areas are distinct and complementary
+- [ ] There is a logical flow from one section to another
+- [ ] The prompt has 3-5 key research areas
+
+## Question Quality
+- [ ] Questions are specific and answerable
+- [ ] Questions cover both factual and analytical aspects
+- [ ] Questions avoid simple yes/no formulations
+- [ ] Each key area has 2-4 specific questions
+
+## Comprehensiveness
+- [ ] All critical aspects of the topic are covered
+- [ ] The prompt addresses potential knowledge gaps
+- [ ] Both advantages and disadvantages are explored
+- [ ] The prompt considers different perspectives
+
+## Output Specification
+- [ ] The desired output format is clearly specified
+- [ ] The level of detail expected is indicated
+- [ ] Any required visualizations or tables are described
+- [ ] The output will be actionable for decision-making
+
+## Source Guidance
+- [ ] Types of sources to consult are specified
+- [ ] Any preferred authoritative sources are mentioned
+- [ ] Recency requirements for sources are indicated
+- [ ] A diverse range of source types is suggested
+
+## Evaluation Framework
+- [ ] Clear criteria for evaluating options are provided (if applicable)
+- [ ] Criteria weightings are specified (if some are more important)
+- [ ] Both quantitative and qualitative factors are included
+- [ ] The evaluation approach is appropriate for the research objective

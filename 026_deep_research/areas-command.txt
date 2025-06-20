@@ -1,0 +1,71 @@
+# Common Research Areas by Topic
+
+Below are suggested research areas for popular topics that can help structure your research prompt:
+
+## Technology Evaluation
+
+1. **Technical Capabilities & Features**
+   - Core functionality
+   - Performance metrics
+   - Scalability characteristics
+   - Security features
+
+2. **Implementation Considerations**
+   - Integration requirements
+   - Development complexity
+   - Deployment options
+   - Maintenance needs
+
+3. **Ecosystem & Community**
+   - Community size and activity
+   - Available resources and documentation
+   - Third-party integrations
+   - Long-term support outlook
+
+4. **Cost Structure**
+   - Licensing models
+   - Operational costs
+   - Hidden costs
+   - ROI analysis
+
+5. **Market Position**
+   - Vendor stability
+   - Market share trends
+   - Competitive advantages
+   - Future roadmap
+
+## Market Research
+
+1. **Market Dynamics**
+   - Size and growth rate
+   - Segmentation
+   - Regional variations
+   - Seasonal patterns
+
+2. **Customer Analysis**
+   - Demographics
+   - Psychographics
+   - Needs and pain points
+   - Decision-making process
+
+3. **Competitive Landscape**
+   - Direct competitors
+   - Indirect competitors
+   - Positioning strategies
+   - Competitive advantages
+
+4. **Trends & Disruptions**
+   - Emerging technologies
+   - Changing regulations
+   - Shifting consumer preferences
+   - Macroeconomic factors
+
+5. **Go-to-Market Strategy**
+   - Pricing models
+   - Distribution channels
+   - Marketing approaches
+   - Partnership opportunities
+
+## Healthcare Research
+
+[Additional topic areas would be included here]

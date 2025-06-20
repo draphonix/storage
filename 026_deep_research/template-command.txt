@@ -1,0 +1,72 @@
+# Research Prompt Template
+
+Use this template structure as the foundation for your research prompt:
+
+```
+# Research Prompt: [Topic]
+
+## CONTEXT
+[Background information and current knowledge]
+
+## OBJECTIVE
+[Clear statement of research goals]
+
+## KEY AREAS
+1. [Area 1]
+   - Question 1.1: [Specific question]
+   - Question 1.2: [Specific question]
+   
+2. [Area 2]
+   - Question 2.1: [Specific question]
+   - Question 2.2: [Specific question]
+   
+[Continue for all areas]
+
+## SOURCES
+[Preferred information sources]
+
+## OUTPUT FORMAT
+[How results should be structured]
+
+## EVALUATION CRITERIA (if applicable)
+[Metrics for comparison]
+```
+
+### Template Section Guidelines
+
+1. **CONTEXT**
+   - Provide relevant background information
+   - State current knowledge level
+   - Mention any previous research
+   - Include key assumptions
+
+2. **OBJECTIVE**
+   - Be specific and measurable
+   - Focus on outcomes, not activities
+   - Limit to 1-2 clear sentences
+
+3. **KEY AREAS**
+   - Use 3-5 distinct research areas
+   - Ensure areas are complementary but not overlapping
+   - Order from foundational to specialized
+
+4. **SPECIFIC QUESTIONS**
+   - Make questions specific and answerable
+   - Include both factual and analytical questions
+   - Avoid yes/no questions when possible
+   - Use "how," "why," "what," and "to what extent" formulations
+
+5. **SOURCES**
+   - Specify types of sources (academic, industry, etc.)
+   - Note any preferred authoritative sources
+   - Mention time relevance (recent vs. historical)
+
+6. **OUTPUT FORMAT**
+   - Be explicit about desired structure
+   - Specify visualization needs
+   - Note comparative elements
+
+7. **EVALUATION CRITERIA**
+   - List specific metrics for comparison
+   - Include both quantitative and qualitative factors
+   - Weight criteria if some are more important

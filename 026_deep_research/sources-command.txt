@@ -1,0 +1,64 @@
+# Recommended Source Types by Domain
+
+Below are recommended source types for different research domains:
+
+## Technology Research
+
+- **Primary Sources:**
+  - Technical documentation and specifications
+  - GitHub repositories and code analysis
+  - API documentation
+  - Patent filings
+  - Conference proceedings (IEEE, ACM)
+
+- **Secondary Sources:**
+  - Technology analyst reports (Gartner, Forrester)
+  - Technical blogs from industry leaders
+  - Case studies from vendors and implementers
+  - Benchmark studies and performance analyses
+  - Developer surveys and usage statistics
+
+- **Authoritative Sources:**
+  - NIST publications
+  - ISO/IEC standards
+  - W3C recommendations
+  - Academic journals (ACM Transactions, IEEE journals)
+  - Major cloud provider documentation (AWS, Azure, GCP)
+
+## Business & Market Research
+
+- **Primary Sources:**
+  - SEC filings and annual reports
+  - Earnings call transcripts
+  - Original market surveys
+  - Patent applications
+  - Trade show presentations
+
+- **Secondary Sources:**
+  - Market research reports (IBISWorld, Statista)
+  - Industry association publications
+  - Business press (WSJ, Financial Times, Bloomberg)
+  - Competitor analysis
+  - Consumer behavior studies
+
+- **Authoritative Sources:**
+  - Government economic data (BLS, Census)
+  - Industry regulatory bodies
+  - McKinsey, BCG, Bain publications
+  - Harvard Business Review
+  - OECD reports
+
+## Healthcare Research
+
+[Additional domain source recommendations would be included here]
+
+## Source Evaluation Criteria
+
+When specifying sources in your research prompt, consider these quality factors:
+
+1. **Recency:** How current should the information be?
+2. **Authority:** What level of expertise should sources demonstrate?
+3. **Objectivity:** What potential biases should be acknowledged?
+4. **Methodology:** What standards of evidence should be applied?
+5. **Peer Review:** Should sources be academically validated?
+6. **Practical Experience:** Should sources include real-world implementation?

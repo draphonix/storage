@@ -1,0 +1,61 @@
+# Research Prompt Examples
+
+Below are examples of well-crafted research prompts for different domains:
+
+## Example 1: Technology Evaluation
+
+```
+# Research Prompt: Evaluating Serverless vs. Container Technologies for Enterprise Applications
+
+## CONTEXT
+Our organization is considering modernizing our application infrastructure. Currently, we use traditional VM-based deployments but want to explore more scalable, cost-effective options. We have limited experience with both serverless and container technologies. Our applications are primarily microservices-based with varying workload patterns.
+
+## OBJECTIVE
+Evaluate serverless and container technologies to determine which approach (or hybrid) would best suit our enterprise applications based on performance, cost, operational complexity, and long-term scalability.
+
+## KEY AREAS
+1. Technical Comparison
+   - Question 1.1: What are the fundamental architectural differences between serverless and container technologies?
+   - Question 1.2: How do these technologies compare in terms of performance, particularly for applications with varying workload patterns?
+   - Question 1.3: What are the security implications of each approach?
+
+2. Operational Considerations
+   - Question 2.1: How do development workflows differ between serverless and container-based approaches?
+   - Question 2.2: What monitoring, logging, and debugging capabilities exist for each technology?
+   - Question 2.3: How does each approach impact DevOps practices and team structure?
+
+3. Cost Analysis
+   - Question 3.1: What is the typical cost structure for serverless vs. container deployments?
+   - Question 3.2: How do costs scale with different usage patterns (steady vs. spiky workloads)?
+   - Question 3.3: What hidden costs exist that organizations often overlook?
+
+4. Migration Pathways
+   - Question 4.1: What are proven strategies for migrating from VMs to either serverless or containers?
+   - Question 4.2: What tools exist to facilitate migration to each technology?
+   - Question 4.3: What are common pitfalls during migration and how can they be avoided?
+
+## SOURCES
+- Technical documentation from major cloud providers (AWS, Azure, GCP)
+- Industry case studies from enterprises of similar size and complexity
+- Academic research on performance benchmarks
+- Expert opinions from industry thought leaders
+- Post-implementation reviews
+
+## OUTPUT FORMAT
+- Comparative analysis table of key features and capabilities
+- Pros/cons list for each technology
+- Decision framework with weighted criteria
+- Visual decision tree for different application types
+- Recommended migration roadmap
+
+## EVALUATION CRITERIA
+- Performance under varying loads (weight: 25%)
+- Total cost of ownership (weight: 25%)
+- Operational complexity and learning curve (weight: 20%)
+- Vendor lock-in risk (weight: 15%)
+- Ecosystem maturity and support (weight: 15%)
+```
+
+## Example 2: Market Research
+
+[Additional examples for different domains would be included here]

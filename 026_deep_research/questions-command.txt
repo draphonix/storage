@@ -1,0 +1,61 @@
+# Effective Research Questions
+
+Below are examples of effective research questions categorized by question type:
+
+## Exploratory Questions
+
+These questions help understand the landscape and identify key factors:
+
+- "What are the primary factors influencing [phenomenon]?"
+- "How has [topic] evolved over the past [timeframe]?"
+- "What are the current approaches to addressing [problem]?"
+- "What patterns emerge when examining [data/situation]?"
+- "How do different stakeholders perceive [issue]?"
+
+## Comparative Questions
+
+These questions evaluate alternatives or compare different aspects:
+
+- "How does [Option A] compare to [Option B] in terms of [criteria]?"
+- "What are the relative advantages and disadvantages of [approaches]?"
+- "To what extent does [Factor X] outperform [Factor Y] in [context]?"
+- "How do outcomes differ between [Group A] and [Group B]?"
+- "What trade-offs exist between [competing priorities]?"
+
+## Causal Questions
+
+These questions explore relationships and causes:
+
+- "What factors contribute most significantly to [outcome]?"
+- "How does [variable] affect [result] under different conditions?"
+- "To what extent does [intervention] lead to [desired outcome]?"
+- "What is the relationship between [factor] and [phenomenon]?"
+- "Why do certain [entities] succeed while others fail in [context]?"
+
+## Predictive Questions
+
+These questions look toward future implications:
+
+- "What trends are likely to shape [industry/field] over the next [timeframe]?"
+- "How might [emerging technology/approach] disrupt [current paradigm]?"
+- "What scenarios could unfold if [condition] continues/changes?"
+- "How will [stakeholder group] likely respond to [change]?"
+- "What are the potential long-term implications of [decision/trend]?"
+
+## Prescriptive Questions
+
+These questions focus on recommendations and actions:
+
+- "What strategies would be most effective for addressing [challenge]?"
+- "How should [organization/individual] approach [opportunity/problem]?"
+- "What best practices can be implemented to improve [process/outcome]?"
+- "What framework would optimize decision-making regarding [issue]?"
+- "Which metrics should be prioritized when evaluating [success/progress]?"
+
+## Question Formulation Tips
+
+1. **Use open-ended phrasing** that requires analysis rather than yes/no answers
+2. **Include specific parameters** (timeframes, contexts, populations)
+3. **Focus on one concept per question** rather than combining multiple ideas
+4. **Use precise terminology** appropriate to the domain
+5. **Ensure questions are answerable** given available information sources

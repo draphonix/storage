@@ -1,0 +1,67 @@
+# Research Output Formats
+
+Below are recommended output formats for different types of research:
+
+## Comparative Analysis
+
+```
+## RECOMMENDED OUTPUT FORMAT
+
+1. Executive Summary (1-2 paragraphs)
+
+2. Comparative Analysis Table
+   | Criteria | Option A | Option B | Option C |
+   |----------|----------|----------|----------|
+   | Criteria 1 | Rating | Rating | Rating |
+   | Criteria 2 | Rating | Rating | Rating |
+   | Criteria 3 | Rating | Rating | Rating |
+
+3. Detailed Analysis of Each Option
+   - Option A: Strengths, weaknesses, unique features
+   - Option B: Strengths, weaknesses, unique features
+   - Option C: Strengths, weaknesses, unique features
+
+4. Scenario-Based Recommendations
+   - Scenario 1: Recommended option and rationale
+   - Scenario 2: Recommended option and rationale
+
+5. Implementation Considerations
+   - Key challenges
+   - Required resources
+   - Timeline considerations
+```
+
+## Market Analysis
+
+```
+## RECOMMENDED OUTPUT FORMAT
+
+1. Market Overview
+   - Size, growth rate, trends
+   - Key players and market shares
+   - Market segmentation
+
+2. Customer Analysis
+   - Demographic profiles
+   - Needs and pain points
+   - Buying behavior and patterns
+
+3. Competitive Landscape
+   - Direct competitors (table format)
+   - Indirect competitors
+   - Positioning map (described textually)
+
+4. Opportunity Assessment
+   - Unmet needs
+   - Market gaps
+   - Potential entry points
+
+5. Risk Analysis
+   - Market risks
+   - Competitive threats
+   - Regulatory considerations
+```
+
+## Technology Evaluation
+
+[Additional format examples would be included here]

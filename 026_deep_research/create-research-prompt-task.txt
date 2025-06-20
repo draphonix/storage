@@ -1,0 +1,105 @@
+# Create Research Prompt Task
+
+## Purpose
+
+To generate a comprehensive, structured research prompt optimized for AI research agents on any topic, ensuring thorough, targeted, and actionable research outcomes.
+
+## Process Overview
+
+This task guides the user through a systematic process to create an optimized research prompt, following these key stages:
+1. Context gathering
+2. Objective definition
+3. Research structure development
+4. Prompt drafting
+5. Review and refinement
+
+## Detailed Process
+
+### 1. Context Gathering
+
+Begin by asking the user about:
+- The general topic area
+- Their current knowledge level
+- The purpose of the research (decision-making, exploration, validation)
+- Any specific hypotheses or assumptions they want to test
+- Time constraints or depth requirements
+
+### 2. Objective Definition
+
+Collaboratively define:
+- Primary research objective (1-2 sentences)
+- Key decisions this research will inform
+- Success criteria for the research
+- Scope boundaries (what's in/out of scope)
+
+### 3. Research Structure Development
+
+Guide the user to develop:
+- 3-5 key research areas/themes
+- 2-4 specific questions for each area
+- Preferred information sources (academic, industry reports, case studies, etc.)
+- Desired output format (comparative tables, narrative analysis, etc.)
+- Evaluation criteria if comparing options
+
+### 4. Prompt Drafting
+
+Synthesize the information into a structured prompt with these sections:
+- **CONTEXT:** Background information and current knowledge
+- **OBJECTIVE:** Clear statement of research goals
+- **KEY AREAS:** Main themes to investigate
+- **SPECIFIC QUESTIONS:** Detailed questions for each area
+- **SOURCES:** Preferred information sources
+- **OUTPUT FORMAT:** How results should be structured
+- **EVALUATION CRITERIA:** Metrics for comparison (if applicable)
+
+### 5. Review and Refinement
+
+- Present the draft prompt for review
+- Explain the structure and rationale
+- Solicit feedback on:
+  - Clarity of instructions
+  - Comprehensiveness of questions
+  - Appropriateness of scope
+  - Any missing elements
+- Refine based on feedback
+- Finalize and format for easy use
+
+## Output
+
+A comprehensive research prompt that:
+- Clearly communicates research objectives
+- Provides structured guidance for investigation
+- Specifies desired output format
+- Is immediately usable with AI research tools
+
+## Template Structure
+
+```
+# Research Prompt: [Topic]
+
+## CONTEXT
+[Background information and current knowledge]
+
+## OBJECTIVE
+[Clear statement of research goals]
+
+## KEY AREAS
+1. [Area 1]
+   - Question 1.1: [Specific question]
+   - Question 1.2: [Specific question]
+   
+2. [Area 2]
+   - Question 2.1: [Specific question]
+   - Question 2.2: [Specific question]
+   
+[Continue for all areas]
+
+## SOURCES
+[Preferred information sources]
+
+## OUTPUT FORMAT
+[How results should be structured]
+
+## EVALUATION CRITERIA (if applicable)
+[Metrics for comparison]
+```
