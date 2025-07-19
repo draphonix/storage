@@ -1,0 +1,27 @@
+{
+  "LOG": true,
+  "Providers": [
+    {
+      "name": "Groq",
+      "api_base_url": "https://api.groq.com/openai/v1/chat/completions",
+      "api_key": "xxxx",
+      "models": [
+        "moonshotai/kimi-k2-instruct"
+      ],
+      "transformer": {
+        "use": [
+          "openrouter",
+          [
+            "maxtoken",
+            {
+              "max_tokens": 16384
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "Router": {
+    "default": "Groq,moonshotai/kimi-k2-instruct"
+  }
+}
